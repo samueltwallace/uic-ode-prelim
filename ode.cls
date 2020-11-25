@@ -5,11 +5,11 @@
 \RequirePackage{amsmath}
 \RequirePackage{amsfonts}
 \RequirePackage{amssymb}
-\RequirePackage[style=alphabetic, sorting=ynt]{amsthm}
+\RequirePackage{amsthm}
 
 % load organizational classes
 \RequirePackage{import}
-\RequirePackage{biblatex}
+\RequirePackage[style=alphabetic, sorting=ynt]{biblatex}
 
 %You can use any article options (twocolumn, etc.)
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
