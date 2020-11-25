@@ -6,6 +6,7 @@
 \RequirePackage{amsfonts}
 \RequirePackage{amssymb}
 \RequirePackage{amsthm}
+\RequirePackage{import}
 
 %You can use any article options (twocolumn, etc.)
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
