@@ -6,3 +6,6 @@
 *.fls
 *.synctex.gz
 *.log
+*.run.xml
+*.bcf
+*.toc
